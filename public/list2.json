@@ -1,0 +1,24 @@
+[
+ { 
+  "id": 1,
+  "src": "assets/upload/right-box-1.jpg",
+  "title": "脆甜胡萝卜",
+  "order_quantity": 924,
+  "price": 9.9
+ },
+ { 
+  "id": 2,
+  "src": "assets/upload/right-box-2.jpg",
+  "title": "爱尚小零食",
+  "order_quantity": 5631,
+  "price": 6.8
+ },
+ { 
+  "id": 3,
+  "src": "assets/upload/right-box-3.jpg",
+  "title": "早晚强效清洁洗面奶",
+  "order_quantity": 1672,
+  "price": 98.8
+ }
+
+]
